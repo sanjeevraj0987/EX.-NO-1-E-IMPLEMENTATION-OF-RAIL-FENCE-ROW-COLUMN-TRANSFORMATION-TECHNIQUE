@@ -16,7 +16,7 @@ STEP-4: Arrange the characters of the keyword in sorted order and the correspond
 STEP-5: Read the characters row wise or column wise in the former order to get the cipher text.
 
 ## PROGRAM:
-~~~
+```
 #include <stdio.h>
 #include <string.h>
 
@@ -112,11 +112,9 @@ int main() {
 
     return 0;
 }
-~~~
-
+```
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/b5341ba8-348e-4762-9758-d77b56b848e8)
-
+![ex1e out](https://github.com/user-attachments/assets/8e69f2b6-7f9b-4368-8559-ed6f0e663434)
 
 ## RESULT:
   Thus the rail fence algorithm had been executed successfully.
